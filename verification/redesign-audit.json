@@ -1,0 +1,851 @@
+[
+  {
+    "route": "about-akash-shinde.html",
+    "body": [
+      "profile-page",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "profile.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Akash Kishor Shinde",
+      "Free karate training in Mumbai",
+      "Ganesh Vidyamandir School, Dharavi",
+      "Pratiksha Nagar, Mumbai",
+      "Discipline, respect and confidence",
+      "Karate practice and experience",
+      "Recognition",
+      "Indian Sports Award \u2013 2019",
+      "Martial Arts & Sports Recognition",
+      "Bharat Bhushan Samman \u2013 2022",
+      "Working with students",
+      "Making karate accessible",
+      "Community work",
+      "TRAIN. LEARN. GROW."
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "akash-profile"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/akash-kishor-shinde.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "academy.html",
+    "body": [
+      "academy-page",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "academy.css",
+      "simple.css"
+    ],
+    "headings": [
+      "About Royal Sports Academy",
+      "Our Story",
+      "Training is completely free",
+      "Our Training Centres",
+      "Dharavi \u2013 Ganesh Vidyamandir School",
+      "Pratiksha Nagar \u2013 Mumbai",
+      "What We Teach",
+      "From Training to Competition",
+      "Akash Kishor Shinde",
+      "Our Mission",
+      "Our Vision",
+      "Why Royal Sports Academy?"
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "academy-story"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/royal-academy-group.webp",
+      "assets/akash-kishor-shinde.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "achievements.html",
+    "body": [
+      "achievements-page",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "achievements.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Achievements & recognition",
+      "Browse the archive",
+      "Certificate presentation in karate uniform",
+      "Bharat Bhushan Samman 2022 certificate",
+      "Indian Sports Award 2019 certificate",
+      "23rd WFSKO Open Karate Championship certificate",
+      "TEBMA Martial Arts Championship 2016\u201317 certificate",
+      "Divisional Junior Kickboxing Championship 2015 certificate",
+      "Outdoor group photograph with a document",
+      "Indian Sports Award 2019 group photograph",
+      "Indoor presentation photograph",
+      "Youth Club Sports Meet 2017\u201318 appreciation",
+      "Framed certificate presentation",
+      "National Pride Excellence Award 2019 certificate",
+      "Mumbai Fire Brigade training certificate",
+      "Inter-school sports competition certificate",
+      "Bharat Bhushan Samman 2022 presentation photograph",
+      "Integrity pledge certificate of commitment",
+      "Bharat Bhushan Award 2022 plaque",
+      "Raigad District Thaiboxing Championship 2018\u201319 certificate",
+      "National Sports Award certificate",
+      "Seated meeting photograph",
+      "Supporting the next generation",
+      "Archive image"
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "achievements-content"
+        ],
+        "id": null
+      },
+      {
+        "tag": "dialog",
+        "class": null,
+        "id": "achievement-viewer"
+      }
+    ],
+    "images": [
+      "assets/achievements/achievement-15.webp",
+      "assets/achievements/achievement-01.webp",
+      "assets/achievements/achievement-02.webp",
+      "assets/achievements/achievement-03.webp",
+      "assets/achievements/achievement-04.webp",
+      "assets/achievements/achievement-05.webp",
+      "assets/achievements/achievement-06.webp",
+      "assets/achievements/achievement-07.webp",
+      "assets/achievements/achievement-08.webp",
+      "assets/achievements/achievement-09.webp",
+      "assets/achievements/achievement-10.webp",
+      "assets/achievements/achievement-11.webp",
+      "assets/achievements/achievement-12.webp",
+      "assets/achievements/achievement-13.webp",
+      "assets/achievements/achievement-14.webp",
+      "assets/achievements/achievement-15.webp",
+      "assets/achievements/achievement-16.webp",
+      "assets/achievements/achievement-17.webp",
+      "assets/achievements/achievement-19.webp",
+      "assets/achievements/achievement-20.webp",
+      "assets/achievements/achievement-21.webp",
+      null
+    ],
+    "forms": []
+  },
+  {
+    "route": "adult-batches.html",
+    "body": [
+      "adults-page",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "adults.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Karate for adults",
+      "What you will practise",
+      "Advanced Shotokan karate training",
+      "Basic to extreme physical fitness training",
+      "Weight loss and weight gain",
+      "Karate meditation training",
+      "Street-safety and self-defence training",
+      "Belt gradation exams every 6 months",
+      "Develop technique at your pace",
+      "Training together",
+      "Enquire about adult training"
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "adults-content"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/adults-shotokan.webp",
+      "assets/adults-class-practice.webp",
+      "assets/adults-archive-group.webp",
+      "assets/adults-archive-athletes.webp",
+      "assets/adults-archive-community.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "competition.html",
+    "body": [
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Sport karate",
+      "Kata and kumite",
+      "Competition records",
+      "THE NEXT STORY BELONGS HERE."
+    ],
+    "sections": [
+      {
+        "tag": "section",
+        "class": [
+          "page-hero"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section",
+          "editorial-split"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "competition"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/7045473.webp",
+      "assets/7045595.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "contact.html",
+    "body": [
+      "contact-refresh",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "contact.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Contact Royal Karate Sports",
+      "Our training centres",
+      "Direct contact",
+      "Akash Kishor Shinde",
+      "Prepare an enquiry",
+      "Your enquiry draft",
+      "Common questions"
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "contact-content"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/akash-kishor-shinde.webp"
+    ],
+    "forms": [
+      "contact-form"
+    ]
+  },
+  {
+    "route": "events.html",
+    "body": [
+      "events-page",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "events.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Events & karate camps",
+      "Our seasonal camps.",
+      "Summer Karate Camp",
+      "Winter Karate Camp",
+      "Camp activities",
+      "Event photo gallery.",
+      "Join the next camp.",
+      "Enrollment information",
+      "Event photograph"
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "events-content"
+        ],
+        "id": null
+      },
+      {
+        "tag": "dialog",
+        "class": null,
+        "id": "event-viewer"
+      }
+    ],
+    "images": [
+      "assets/events/event-06.webp",
+      "assets/events/event-02.webp",
+      "assets/events/event-01.webp",
+      "assets/events/event-02.webp",
+      "assets/events/event-03.webp",
+      "assets/events/event-04.webp",
+      "assets/events/event-05.webp",
+      "assets/events/event-06.webp",
+      "assets/events/event-07.webp",
+      null
+    ],
+    "forms": []
+  },
+  {
+    "route": "gallery.html",
+    "body": [
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Photo gallery"
+    ],
+    "sections": [
+      {
+        "tag": "section",
+        "class": [
+          "page-hero"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/7045595.webp",
+      "assets/7045397.webp",
+      "assets/7045603.webp",
+      "assets/7045593.webp",
+      "assets/7045597.webp",
+      "assets/7045395.webp",
+      "assets/7045473.webp",
+      "assets/7045594.webp",
+      "assets/7045596.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "index.html",
+    "body": [
+      "home-refresh",
+      "simple-design",
+      "home"
+    ],
+    "styles": [
+      "site.css",
+      "home.css",
+      "simple.css"
+    ],
+    "headings": [
+      "MASTER THE ART. BUILD THE CHARACTER.",
+      "Training centres",
+      "Choose your karate programme",
+      "Your professional coaches",
+      "Amar Dabade",
+      "Mayur Dilawar",
+      "\u0938\u093e\u0939\u093f\u0932 \u0939\u0947\u0917\u0921\u0915\u0930",
+      "Meet Akash Kishor Shinde",
+      "Summer & winter camps",
+      "Before your first class"
+    ],
+    "sections": [
+      {
+        "tag": "section",
+        "class": [
+          "hero",
+          "home-hero"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "home-access"
+        ],
+        "id": "academy"
+      },
+      {
+        "tag": "section",
+        "class": [
+          "program-section",
+          "section"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "home-team",
+          "section"
+        ],
+        "id": "our-team"
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section",
+          "home-camps"
+        ],
+        "id": "home-camps"
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section",
+          "home-faq"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/adults-shotokan.webp",
+      "assets/kids-group-training.webp",
+      "assets/coaches/amar-dabade.webp",
+      "assets/coaches/mayur-dilawar.webp",
+      "assets/coaches/sahil-hegadkar.webp",
+      "assets/akash-kishor-shinde.webp",
+      "assets/events/event-02.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "information.html",
+    "body": [
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "simple.css"
+    ],
+    "headings": [
+      "About this website preview",
+      "Website status",
+      "Privacy in this preview",
+      "Content awaiting confirmation",
+      "Photography credits",
+      "Typography",
+      "Design independence"
+    ],
+    "sections": [
+      {
+        "tag": "section",
+        "class": [
+          "page-hero"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section"
+        ],
+        "id": null
+      }
+    ],
+    "images": [],
+    "forms": []
+  },
+  {
+    "route": "instructors.html",
+    "body": [
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Our instructors",
+      "Our coaching approach",
+      "Questions for your instructor"
+    ],
+    "sections": [
+      {
+        "tag": "section",
+        "class": [
+          "page-hero"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section",
+          "editorial-split"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/7045600.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "kids-batches.html",
+    "body": [
+      "kids-page",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "kids.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Karate for kids",
+      "Learning step by step",
+      "Personal attention to each and every student",
+      "Basic to advanced karate and fitness training",
+      "Pure traditional and sports karate training",
+      "Training for national and international competitions",
+      "Belt gradation exams every 5 months",
+      "Skills beyond karate",
+      "Our young learners",
+      "Enquire for your child"
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "kids-page-content"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/kids-line-practice.webp",
+      "assets/kids-first-steps.webp",
+      "assets/kids-group-training.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "locations.html",
+    "body": [
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Training centres",
+      "Where we train",
+      "Common questions"
+    ],
+    "sections": [
+      {
+        "tag": "section",
+        "class": [
+          "page-hero"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section",
+          "location-layout"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "section",
+          "wrap",
+          "faq"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/7045466.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "media.html",
+    "body": [
+      "media-page",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "media.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Media & press",
+      "Media Gallery",
+      "Vartahar \u00b7 Academy in the news",
+      "Punya Nagari \u00b7 Bharat Bhushan coverage",
+      "Saamana \u00b7 Sports recognition feature",
+      "Sports recognition card",
+      "Community recognition \u00b7 Newspaper feature",
+      "Bharat Bhushan \u00b7 Newspaper report",
+      "Letter of congratulations",
+      "Crime Diary \u00b7 Academy feature",
+      "Nava Kaal \u00b7 Martial-arts competition coverage",
+      "Indian Sports Award \u00b7 2019 correspondence",
+      "Navarashtra \u00b7 Bharat Bhushan coverage",
+      "Recognition at work \u00b7 Press clipping",
+      "Saamana \u00b7 District karate feature",
+      "Navarashtra \u00b7 Recognition news brief",
+      "Navarashtra \u00b7 Kickboxing competition feature",
+      "Janshakti \u00b7 Academy competition coverage",
+      "Sports recognition \u00b7 Hindi press report",
+      "Saamana \u00b7 Students in the sports pages",
+      "Saamana \u00b7 Newspaper feature",
+      "Navshakti \u00b7 Sports recognition report",
+      "Saamana \u00b7 Sports recognition news brief",
+      "Letter of appreciation \u00b7 Security service",
+      "Royal Sports \u00b7 National competition report",
+      "Karate in the community",
+      "Stories That Go Beyond Sports",
+      "Meet the founder",
+      "Padma Awards 2023 \u00b7 Nomination record",
+      "Document"
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "media-content"
+        ],
+        "id": null
+      },
+      {
+        "tag": "dialog",
+        "class": null,
+        "id": "press-viewer"
+      }
+    ],
+    "images": [
+      "assets/press/press-11.webp",
+      "assets/press/press-01.webp",
+      "assets/press/press-02.webp",
+      "assets/press/press-03.webp",
+      "assets/press/press-04.webp",
+      "assets/press/press-05.webp",
+      "assets/press/press-06.webp",
+      "assets/press/press-07.webp",
+      "assets/press/press-08.webp",
+      "assets/press/press-09.webp",
+      "assets/press/press-10.webp",
+      "assets/press/press-11.webp",
+      "assets/press/press-12.webp",
+      "assets/press/press-13.webp",
+      "assets/press/press-14.webp",
+      "assets/press/press-15.webp",
+      "assets/press/press-16.webp",
+      "assets/press/press-17.webp",
+      "assets/press/press-18.webp",
+      "assets/press/press-19.webp",
+      "assets/press/press-20.webp",
+      "assets/press/press-21.webp",
+      "assets/press/press-22.webp",
+      "assets/press/press-23.webp",
+      "assets/press/press-11.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "programs.html",
+    "body": [
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Karate programmes",
+      "Kids karate",
+      "Teen karate",
+      "Adult karate",
+      "Sport karate",
+      "Common questions"
+    ],
+    "sections": [
+      {
+        "tag": "section",
+        "class": [
+          "page-hero"
+        ],
+        "id": null
+      },
+      {
+        "tag": "div",
+        "class": [
+          "wrap"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "section",
+          "wrap",
+          "faq"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/7045597.webp",
+      "assets/7045594.webp",
+      "assets/7045595.webp",
+      "assets/7045473.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "seminars.html",
+    "body": [
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Karate & self-defense seminars",
+      "Seminars for schools and groups"
+    ],
+    "sections": [
+      {
+        "tag": "section",
+        "class": [
+          "page-hero"
+        ],
+        "id": null
+      },
+      {
+        "tag": "section",
+        "class": [
+          "wrap",
+          "section",
+          "editorial-split"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/7045594.webp"
+    ],
+    "forms": []
+  },
+  {
+    "route": "sensei.html",
+    "body": [
+      "profile-page",
+      "simple-design"
+    ],
+    "styles": [
+      "site.css",
+      "profile.css",
+      "simple.css"
+    ],
+    "headings": [
+      "Akash Kishor Shinde",
+      "Free karate training in Mumbai",
+      "Ganesh Vidyamandir School, Dharavi",
+      "Pratiksha Nagar, Mumbai",
+      "Discipline, respect and confidence",
+      "Karate practice and experience",
+      "Recognition",
+      "Indian Sports Award \u2013 2019",
+      "Martial Arts & Sports Recognition",
+      "Bharat Bhushan Samman \u2013 2022",
+      "Working with students",
+      "Making karate accessible",
+      "Community work",
+      "TRAIN. LEARN. GROW."
+    ],
+    "sections": [
+      {
+        "tag": "article",
+        "class": [
+          "akash-profile"
+        ],
+        "id": null
+      }
+    ],
+    "images": [
+      "assets/akash-kishor-shinde.webp"
+    ],
+    "forms": []
+  }
+]

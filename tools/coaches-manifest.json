@@ -1,0 +1,52 @@
+{
+  "supplied_count": 3,
+  "displayed_count": 3,
+  "identity_source": "Names and coach roles supplied by the website owner. No qualifications or ranks inferred.",
+  "items": [
+    {
+      "name": "Amar Dabade",
+      "source": "Amar Dabade.webp",
+      "original": "assets/coaches/originals/Amar Dabade.webp",
+      "display": "assets/coaches/amar-dabade.webp",
+      "sha256": "77bd901eacf0d0c2ac0d8ad815af9bf60c7d18fa4aad7bc463e86b2eac54ec79",
+      "width": 1080,
+      "height": 1350,
+      "display_crop": [
+        0,
+        0,
+        1080,
+        1350
+      ]
+    },
+    {
+      "name": "Mayur Dilawar",
+      "source": "Mayur Dilawar.webp",
+      "original": "assets/coaches/originals/Mayur Dilawar.webp",
+      "display": "assets/coaches/mayur-dilawar.webp",
+      "sha256": "fa63a844d3f58362691f4f307d9fd579965c5a0ea8fd27d2f4aa74a728819a78",
+      "width": 876,
+      "height": 1096,
+      "display_crop": [
+        0,
+        0,
+        876,
+        1096
+      ]
+    },
+    {
+      "name": "साहिल हेगडकर",
+      "source": "साहिल हेगडकर.webp",
+      "original": "assets/coaches/originals/साहिल हेगडकर.webp",
+      "display": "assets/coaches/sahil-hegadkar.webp",
+      "sha256": "f930afd521507b5ee26a7e68e791cd18f04c0c5d284adf35b8333e8e9b574fe4",
+      "width": 820,
+      "height": 1080,
+      "display_crop": [
+        130,
+        0,
+        950,
+        1080
+      ]
+    }
+  ]
+}

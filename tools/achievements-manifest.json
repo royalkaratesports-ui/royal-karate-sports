@@ -1,0 +1,307 @@
+{
+  "input_count": 21,
+  "unique_count": 20,
+  "items": [
+    {
+      "id": "achievement-01",
+      "sources": [
+        "3db4ac38-170e-4991-92a5-e3b730b7a402.jpg"
+      ],
+      "original": "assets/achievements/originals/3db4ac38-170e-4991-92a5-e3b730b7a402.jpg",
+      "width": 1200,
+      "height": 1599,
+      "pixel_hash": "1727944cd8455125c47d75679c93f84ad2037367f96d9114a325d35962597c46",
+      "sha256": "35ff1ba081ffc6ebb006ad5c74decf4ff088580548afc8029da41af9a36fe200",
+      "display": "assets/achievements/achievement-01-full.webp",
+      "thumbnail": "assets/achievements/achievement-01.webp",
+      "display_width": 1200,
+      "display_height": 1599
+    },
+    {
+      "id": "achievement-02",
+      "sources": [
+        "7d121d66-9df2-479f-b7d8-d5f27255ff34.jpg"
+      ],
+      "original": "assets/achievements/originals/7d121d66-9df2-479f-b7d8-d5f27255ff34.jpg",
+      "width": 560,
+      "height": 792,
+      "pixel_hash": "22f5cf0ec78d8162d75a472a447c7af5edc5acd3415652f464934fe7bf397479",
+      "sha256": "19a05f5185ba7275d5e5a3cb5fa14c449e4eb612d29eef07f4abc0e3b0fbc24b",
+      "display": "assets/achievements/achievement-02-full.webp",
+      "thumbnail": "assets/achievements/achievement-02.webp",
+      "display_width": 560,
+      "display_height": 792
+    },
+    {
+      "id": "achievement-03",
+      "sources": [
+        "08e145e0-77f6-47bf-a88d-aecd0323d757.jpg"
+      ],
+      "original": "assets/achievements/originals/08e145e0-77f6-47bf-a88d-aecd0323d757.jpg",
+      "width": 402,
+      "height": 569,
+      "pixel_hash": "22a767dae397ef4b3ddded4351d9ad0ba63ef711f7d90af445ffb4ff6c7d7f28",
+      "sha256": "a23f8118f7f12f693c2344f302653bc42efaef09e6bc951d8da08cb4c1fe7119",
+      "display": "assets/achievements/achievement-03-full.webp",
+      "thumbnail": "assets/achievements/achievement-03.webp",
+      "display_width": 402,
+      "display_height": 569
+    },
+    {
+      "id": "achievement-04",
+      "sources": [
+        "42e10b0b-684f-4d55-8fd0-2f04c5fb16d5.jpg"
+      ],
+      "original": "assets/achievements/originals/42e10b0b-684f-4d55-8fd0-2f04c5fb16d5.jpg",
+      "width": 1124,
+      "height": 1600,
+      "pixel_hash": "3e5c2736843f6167a685af2b50c42f4d08b4bd064286a54db7d55f2db6ff4b2b",
+      "sha256": "947eaafa8c416123222ca8d85e25c19abeccb1e13b8abaa300d4a649c35ba769",
+      "display": "assets/achievements/achievement-04-full.webp",
+      "thumbnail": "assets/achievements/achievement-04.webp",
+      "display_width": 1600,
+      "display_height": 1124
+    },
+    {
+      "id": "achievement-05",
+      "sources": [
+        "65eb5c9f-06ca-4bf3-ac56-cceb9898a5d2.jpg"
+      ],
+      "original": "assets/achievements/originals/65eb5c9f-06ca-4bf3-ac56-cceb9898a5d2.jpg",
+      "width": 1204,
+      "height": 1600,
+      "pixel_hash": "b1d6b0e6722ccc9a92414b6d0e3795b4e432ef318a91205cc33da6b8fad0053c",
+      "sha256": "ad0fe8c2c385d8af0b8b749d01e2a92dcccd57b8cf212a08df34b567879f2432",
+      "display": "assets/achievements/achievement-05-full.webp",
+      "thumbnail": "assets/achievements/achievement-05.webp",
+      "display_width": 1204,
+      "display_height": 1600
+    },
+    {
+      "id": "achievement-06",
+      "sources": [
+        "177ee44e-5956-48a0-9d89-bd1b02d4c610.jpg"
+      ],
+      "original": "assets/achievements/originals/177ee44e-5956-48a0-9d89-bd1b02d4c610.jpg",
+      "width": 1098,
+      "height": 1600,
+      "pixel_hash": "8367888eb3a89ca801ade1af35521d5ce57927d72152396bd076e0526d03fb32",
+      "sha256": "ae3b16fa4db5a2cb8f63cd8714d1fcefd2c33b1cbbf622a474deccefa8450c71",
+      "display": "assets/achievements/achievement-06-full.webp",
+      "thumbnail": "assets/achievements/achievement-06.webp",
+      "display_width": 1098,
+      "display_height": 1600
+    },
+    {
+      "id": "achievement-07",
+      "sources": [
+        "503eeaf9-fc88-4c97-a475-12a97c01a976.jpg"
+      ],
+      "original": "assets/achievements/originals/503eeaf9-fc88-4c97-a475-12a97c01a976.jpg",
+      "width": 960,
+      "height": 720,
+      "pixel_hash": "a3ab1baea6b38f871f6b9b82166e041fecacc5d03b90bf7bb82b99e13d93ed5f",
+      "sha256": "10b84a06162f03962e23ce84bff45af7972cdc59fb84222ee411706cd3956f08",
+      "display": "assets/achievements/achievement-07-full.webp",
+      "thumbnail": "assets/achievements/achievement-07.webp",
+      "display_width": 960,
+      "display_height": 720
+    },
+    {
+      "id": "achievement-08",
+      "sources": [
+        "9206d0d0-701e-4df5-8d89-47ce91316e73.jpg"
+      ],
+      "original": "assets/achievements/originals/9206d0d0-701e-4df5-8d89-47ce91316e73.jpg",
+      "width": 438,
+      "height": 224,
+      "pixel_hash": "3c73a975bd560ce6236096eac89f29f3a1abe62b0272e677ea5932e9eabe3b35",
+      "sha256": "20fc6d17f40e9c68f329e2189aeba8ab77c0c0455e5ea2196f01c4d272113126",
+      "display": "assets/achievements/achievement-08-full.webp",
+      "thumbnail": "assets/achievements/achievement-08.webp",
+      "display_width": 438,
+      "display_height": 224
+    },
+    {
+      "id": "achievement-09",
+      "sources": [
+        "23091a64-5ca8-465b-b70a-47c9e379dc6d.jpg"
+      ],
+      "original": "assets/achievements/originals/23091a64-5ca8-465b-b70a-47c9e379dc6d.jpg",
+      "width": 308,
+      "height": 197,
+      "pixel_hash": "88ede8493ab3080f15a2ae82f0f7ec653af85ea91ef1a0aa2b93c4cf8f9f0983",
+      "sha256": "955ebcbf960b0923c7d0ea385749faf5f5e2e2099f5efa67cec6a88d2307a9ef",
+      "display": "assets/achievements/achievement-09-full.webp",
+      "thumbnail": "assets/achievements/achievement-09.webp",
+      "display_width": 308,
+      "display_height": 197
+    },
+    {
+      "id": "achievement-10",
+      "sources": [
+        "61133aca-b9ec-42db-8afd-1723642206f5.jpg",
+        "d83efac8-2c26-496c-bc07-571609100dea.jpg"
+      ],
+      "original": "assets/achievements/originals/61133aca-b9ec-42db-8afd-1723642206f5.jpg",
+      "width": 1125,
+      "height": 1600,
+      "pixel_hash": "192985dc721f0bd222e6569c01ddc15ac57abfc707ddfdb95e04512f0080f7fd",
+      "sha256": "0091e05915db70febf42dbbe7cb5e7c19ec336a732a43354e02bbc82f57e1166",
+      "display": "assets/achievements/achievement-10-full.webp",
+      "thumbnail": "assets/achievements/achievement-10.webp",
+      "display_width": 1125,
+      "display_height": 1600
+    },
+    {
+      "id": "achievement-11",
+      "sources": [
+        "950049bd-4fd8-4bed-9781-e3f0bad3bba9.jpg"
+      ],
+      "original": "assets/achievements/originals/950049bd-4fd8-4bed-9781-e3f0bad3bba9.jpg",
+      "width": 234,
+      "height": 310,
+      "pixel_hash": "7c9e498f8c3cb28a678993585287891e426f4ab0e8572d00da2f79512fb5de0e",
+      "sha256": "68cf69ac9602ba9894f1ab0c8a2e6e867eecdecc9e5d009e4674acd34c381e5f",
+      "display": "assets/achievements/achievement-11-full.webp",
+      "thumbnail": "assets/achievements/achievement-11.webp",
+      "display_width": 234,
+      "display_height": 310
+    },
+    {
+      "id": "achievement-12",
+      "sources": [
+        "978828aa-ffbe-442a-8db0-bbf2900f5619.jpg"
+      ],
+      "original": "assets/achievements/originals/978828aa-ffbe-442a-8db0-bbf2900f5619.jpg",
+      "width": 566,
+      "height": 813,
+      "pixel_hash": "52e9f10f8a204d93e9e43680c38280ff04dd87aec1667d846e87719c3f0d07e3",
+      "sha256": "fada5e2d3a8a5670c71197d1e9e9b94585ef604e13284e862c4f8faa5216a0bf",
+      "display": "assets/achievements/achievement-12-full.webp",
+      "thumbnail": "assets/achievements/achievement-12.webp",
+      "display_width": 566,
+      "display_height": 813
+    },
+    {
+      "id": "achievement-13",
+      "sources": [
+        "2528011c-7e63-43d6-bdbe-d43f4d4c6b2b.jpg"
+      ],
+      "original": "assets/achievements/originals/2528011c-7e63-43d6-bdbe-d43f4d4c6b2b.jpg",
+      "width": 1194,
+      "height": 1600,
+      "pixel_hash": "a97fc437d4659abaf28af0526b10435a7a257f2f61c341dea97dd19bfc4c7d20",
+      "sha256": "b3432fd2f42c3664d683d607dfa570da767830a169a39f4fe7b8a2932c1004c9",
+      "display": "assets/achievements/achievement-13-full.webp",
+      "thumbnail": "assets/achievements/achievement-13.webp",
+      "display_width": 1600,
+      "display_height": 1194
+    },
+    {
+      "id": "achievement-14",
+      "sources": [
+        "28916415-2506-4f16-8cad-248de938caa7.jpg"
+      ],
+      "original": "assets/achievements/originals/28916415-2506-4f16-8cad-248de938caa7.jpg",
+      "width": 570,
+      "height": 772,
+      "pixel_hash": "728c63dea8ea38227661b96b8c2766fccd747ea37b7bd42ed75adcef44c677c0",
+      "sha256": "f0c13cb8879219f291272f177d958a6f911eb7cf92dc51353ebc643cbce35b89",
+      "display": "assets/achievements/achievement-14-full.webp",
+      "thumbnail": "assets/achievements/achievement-14.webp",
+      "display_width": 772,
+      "display_height": 570
+    },
+    {
+      "id": "achievement-15",
+      "sources": [
+        "a47eca67-6d46-45fe-815f-85a9c4f8e76f.jpg"
+      ],
+      "original": "assets/achievements/originals/a47eca67-6d46-45fe-815f-85a9c4f8e76f.jpg",
+      "width": 1280,
+      "height": 914,
+      "pixel_hash": "ddc9de87f644316a5205ef1e1b96ce801153e3c5dcbca5e475e9e8c6293bb6be",
+      "sha256": "d847268acbc09d196dddcdebb778cb7e03f1689a263d6c9d721530de7864324d",
+      "display": "assets/achievements/achievement-15-full.webp",
+      "thumbnail": "assets/achievements/achievement-15.webp",
+      "display_width": 1280,
+      "display_height": 914
+    },
+    {
+      "id": "achievement-16",
+      "sources": [
+        "cf1dfb52-ec8a-4ffa-8203-76d380561b41.jpg"
+      ],
+      "original": "assets/achievements/originals/cf1dfb52-ec8a-4ffa-8203-76d380561b41.jpg",
+      "width": 1147,
+      "height": 1600,
+      "pixel_hash": "2597622a91aceb7a0501cf737d42f9541487c3618db6f492e9ab9c565a52ee29",
+      "sha256": "78520c18d0b54289706db9f02aa74d5234decbdc99fbf619bb4d94dfcfaf262b",
+      "display": "assets/achievements/achievement-16-full.webp",
+      "thumbnail": "assets/achievements/achievement-16.webp",
+      "display_width": 1600,
+      "display_height": 1147
+    },
+    {
+      "id": "achievement-17",
+      "sources": [
+        "d55f403f-5c80-40a9-85d9-371d5ccaa918.jpg"
+      ],
+      "original": "assets/achievements/originals/d55f403f-5c80-40a9-85d9-371d5ccaa918.jpg",
+      "width": 484,
+      "height": 406,
+      "pixel_hash": "cb025e416e33c7b8635c0f62c84c480e6ca8fd7497b4538ad66c8a9ab80a1764",
+      "sha256": "7b9d39c860e1fce8b54c2ba7fba72ee69d4ff98ab75351b4eba2f902e01e9ac8",
+      "display": "assets/achievements/achievement-17-full.webp",
+      "thumbnail": "assets/achievements/achievement-17.webp",
+      "display_width": 484,
+      "display_height": 406
+    },
+    {
+      "id": "achievement-19",
+      "sources": [
+        "e3f35907-15f0-4256-a80f-b8f207f968e5.jpg"
+      ],
+      "original": "assets/achievements/originals/e3f35907-15f0-4256-a80f-b8f207f968e5.jpg",
+      "width": 561,
+      "height": 765,
+      "pixel_hash": "6e0654e4c8ddc2fb3e4438e2ac5eb69dd75d138db4e4c0a855bbaefa429180a2",
+      "sha256": "2cf96eae8b27ba586227c9457f9aa704b7d941e3e8142ffb1841fd077cec881c",
+      "display": "assets/achievements/achievement-19-full.webp",
+      "thumbnail": "assets/achievements/achievement-19.webp",
+      "display_width": 561,
+      "display_height": 765
+    },
+    {
+      "id": "achievement-20",
+      "sources": [
+        "e93b557d-e051-4ff3-8510-4a217512448a.jpg"
+      ],
+      "original": "assets/achievements/originals/e93b557d-e051-4ff3-8510-4a217512448a.jpg",
+      "width": 596,
+      "height": 842,
+      "pixel_hash": "efa75af8a2dfafd2a33b176fb82a9034faea51d17e36e27fcfdd0af2d7793438",
+      "sha256": "80590bf694b718ec2040587fe087f11cba3df9d273b30cfd676769a244bdce3d",
+      "display": "assets/achievements/achievement-20-full.webp",
+      "thumbnail": "assets/achievements/achievement-20.webp",
+      "display_width": 596,
+      "display_height": 842
+    },
+    {
+      "id": "achievement-21",
+      "sources": [
+        "e710ddaf-3cd6-48d4-ab4c-5ce371ee2e1a.jpg"
+      ],
+      "original": "assets/achievements/originals/e710ddaf-3cd6-48d4-ab4c-5ce371ee2e1a.jpg",
+      "width": 960,
+      "height": 640,
+      "pixel_hash": "59402940071f84d6134f2f3c9006357a9a3ca52bfb32f87fac809ced73e1cf26",
+      "sha256": "227f7be48e35be1e0bceccf127d5c373a244569690ec9c018c140045240fae8d",
+      "display": "assets/achievements/achievement-21-full.webp",
+      "thumbnail": "assets/achievements/achievement-21.webp",
+      "display_width": 960,
+      "display_height": 640
+    }
+  ]
+}

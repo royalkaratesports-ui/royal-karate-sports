@@ -1,0 +1,91 @@
+{
+  "pages": 17,
+  "brand_placements": 51,
+  "results": [
+    {
+      "page": "about-akash-shinde.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "academy.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "achievements.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "adult-batches.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "competition.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "contact.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "events.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "gallery.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "index.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "information.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "instructors.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "kids-batches.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "locations.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "media.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "programs.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "seminars.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    },
+    {
+      "page": "sensei.html",
+      "logo_placements": 3,
+      "favicon": "assets/brand/favicon.png"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "input_count": 26,
+  "unique_count": 23,
+  "duplicate_count": 3,
+  "items": [
+    {
+      "id": "press-01",
+      "sources": [
+        "fc37d822-f8d7-40f5-a613-bf54f8111e58.jpg"
+      ],
+      "sha256": "ebe8c9f40e261a6022b0ecbf0352d307bad42bdd451581fa760ffaa1dbb55c61",
+      "pixels_sha256": "4884e9d666245c2e419c5ae359835b165f198d46cc26d516fce2f7142dabf31a",
+      "width": 1155,
+      "height": 1600,
+      "original": "assets/press/press-01.jpg",
+      "thumbnail": "assets/press/press-01.webp"
+    },
+    {
+      "id": "press-02",
+      "sources": [
+        "1ec13f99-2c7e-41e9-9765-54f809ce6586.jpg"
+      ],
+      "sha256": "90ef3adfd85725e67aed42ee3a47d3f72ede61e41715c1a68f53e9ed9dab152e",
+      "pixels_sha256": "6b162aed749c2b10a6477c1c16058aa46485b192499889fd90ba1a1635dcfb3b",
+      "width": 720,
+      "height": 636,
+      "original": "assets/press/press-02.jpg",
+      "thumbnail": "assets/press/press-02.webp"
+    },
+    {
+      "id": "press-03",
+      "sources": [
+        "2dd24e2c-a3c9-4894-ac37-4b316d1e7bd3.jpg"
+      ],
+      "sha256": "db6be29ea3188453a08cdba020bea00023d3580dff498f3f70459f363135fb17",
+      "pixels_sha256": "e3f402ca0294790865e0b97429ef7963830738e2bbe87346b32ac670c27fcf39",
+      "width": 879,
+      "height": 921,
+      "original": "assets/press/press-03.jpg",
+      "thumbnail": "assets/press/press-03.webp"
+    },
+    {
+      "id": "press-04",
+      "sources": [
+        "3aa83443-275f-4502-8979-d36a5b54d354.jpg"
+      ],
+      "sha256": "51c3f0deb2f9a3f36bfe00dfad72aff46a43dc3d2689e837a6622a0012cc5467",
+      "pixels_sha256": "c858d99174679733d87a36c96a07bf16261c7de9aa9857add16c3542f33a809e",
+      "width": 612,
+      "height": 960,
+      "original": "assets/press/press-04.jpg",
+      "thumbnail": "assets/press/press-04.webp"
+    },
+    {
+      "id": "press-05",
+      "sources": [
+        "3b7fbffd-c3b8-41c4-aee7-da73bb00b2db.jpg"
+      ],
+      "sha256": "96284830c7df72a167f4cff280c4adb903b57d9f41cd22cb4adf9cb485a85d38",
+      "pixels_sha256": "c254eb5927e2908ad7787310fb26bef48d62543cf7a778c2a2139a4ebd7f63f9",
+      "width": 1600,
+      "height": 561,
+      "original": "assets/press/press-05.jpg",
+      "thumbnail": "assets/press/press-05.webp"
+    },
+    {
+      "id": "press-06",
+      "sources": [
+        "4b788c30-e3af-49d7-b8ad-bce4222653a8.jpg"
+      ],
+      "sha256": "1b86121eacc28535006f5031cbeb31b0cad6223807d19aba686d605592ca53b8",
+      "pixels_sha256": "4d5748c3b8d1a707c0d8e900e1713f3f64cf952f704da29db8c029412a75a476",
+      "width": 1001,
+      "height": 498,
+      "original": "assets/press/press-06.jpg",
+      "thumbnail": "assets/press/press-06.webp"
+    },
+    {
+      "id": "press-07",
+      "sources": [
+        "4bbc6aab-3ffe-4ae2-9b16-cd546c34b700.jpg"
+      ],
+      "sha256": "61c06d77d69350f555522197c03818f5f745e1dd8797df83ff59241f9724e22c",
+      "pixels_sha256": "06aa9a5c40dba64af38c082eb57f63aed1213aab269032003e463c4baa5cfe44",
+      "width": 1199,
+      "height": 1600,
+      "original": "assets/press/press-07.jpg",
+      "thumbnail": "assets/press/press-07.webp"
+    },
+    {
+      "id": "press-08",
+      "sources": [
+        "5c130ebe-3d1c-49d6-85c6-5e7ac552a451.jpg"
+      ],
+      "sha256": "657f46cf5723e047f444962cdb03a5c6fab16df2aad33e652240bf38c0658ce1",
+      "pixels_sha256": "9173b6097584e087e25817b1088f5177b2ed280c25f728ab9a39dd8cb26c643e",
+      "width": 1178,
+      "height": 1600,
+      "original": "assets/press/press-08.jpg",
+      "thumbnail": "assets/press/press-08.webp"
+    },
+    {
+      "id": "press-09",
+      "sources": [
+        "6da3b8d2-2d30-4fa3-9c7b-4d6e62cee788.jpg"
+      ],
+      "sha256": "a4bba962350055bcb13357c18b960a6f90420b49faffb95e3db0c089a3037c1b",
+      "pixels_sha256": "b8f1eb008bf3c68aea51724acce98c974357abbc82df66e4e88dc45cffb47482",
+      "width": 1568,
+      "height": 1600,
+      "original": "assets/press/press-09.jpg",
+      "thumbnail": "assets/press/press-09.webp"
+    },
+    {
+      "id": "press-10",
+      "sources": [
+        "9e88f90b-db9f-45de-aa11-b075ab46850d.jpg"
+      ],
+      "sha256": "b8302ab771f752c358198804ddd2b04b6fca73edaac5fcd2b031cf8c4c754170",
+      "pixels_sha256": "d3a3d9ea0fd63bfc0beaeb388778744e9ab470d7b3801fee472ca0fcd28e6fe2",
+      "width": 1156,
+      "height": 1600,
+      "original": "assets/press/press-10.jpg",
+      "thumbnail": "assets/press/press-10.webp"
+    },
+    {
+      "id": "press-11",
+      "sources": [
+        "30c12d58-e2e3-4f4e-9bac-efe3802960ef.jpg"
+      ],
+      "sha256": "2cedd51a1216d5cdad89dfcb17d961df5311cfe3331d22c1000e46bc79ac8888",
+      "pixels_sha256": "b3b994b11e31048decd4b96fd8c3ba0001e75b18f26e9203fdbc4de79e382440",
+      "width": 771,
+      "height": 679,
+      "original": "assets/press/press-11.jpg",
+      "thumbnail": "assets/press/press-11.webp"
+    },
+    {
+      "id": "press-12",
+      "sources": [
+        "2877b501-b13a-49d5-bbaa-d0abb06c90d3.jpg"
+      ],
+      "sha256": "969035e8c59dc7a1c983d9197bab0e5fe8a6dc2465d51175bfba7ead11e71542",
+      "pixels_sha256": "f4f7b44657325f5933db63e5df50bf7d7112a4ef8cc51da9af1e7f5f9efafbf6",
+      "width": 901,
+      "height": 850,
+      "original": "assets/press/press-12.jpg",
+      "thumbnail": "assets/press/press-12.webp"
+    },
+    {
+      "id": "press-13",
+      "sources": [
+        "99503e92-6646-4074-af8e-56aa204455dc.jpg"
+      ],
+      "sha256": "0c96f8f4f9c2bf59a933eaec10f06ed2e96a9395b294384aad7d1976f401b735",
+      "pixels_sha256": "ca04ac35ee7c0d7c107f556a4f31824a4d465b88cf59d2eea69d89aa1ab862f1",
+      "width": 1354,
+      "height": 1600,
+      "original": "assets/press/press-13.jpg",
+      "thumbnail": "assets/press/press-13.webp"
+    },
+    {
+      "id": "press-14",
+      "sources": [
+        "01658241-50d4-49f3-8429-a70e915c1f4a.jpg"
+      ],
+      "sha256": "a88aa3e21f62035116e63ff12e04263a36b9816f0cab2ef167b9a6f1ec8a3105",
+      "pixels_sha256": "801963dba417672e44527d23e03adfdaacd7acc342a9ede886f95d94d422f782",
+      "width": 240,
+      "height": 610,
+      "original": "assets/press/press-14.jpg",
+      "thumbnail": "assets/press/press-14.webp"
+    },
+    {
+      "id": "press-15",
+      "sources": [
+        "4738987a-9959-4640-a3cd-8b65273347dc (1).jpg",
+        "4738987a-9959-4640-a3cd-8b65273347dc.jpg",
+        "a67f9d7b-a7f0-44f4-9ea8-3ff18bdc06fe.jpg"
+      ],
+      "sha256": "e26f3af1e9657de2996846aad112cbf1f4ece6e9b2d3a6fa0119802378c9109f",
+      "pixels_sha256": "16c4b1ad6318377f8803788a224e3fb632fe74716f26cb877a4f46f9be187e81",
+      "width": 653,
+      "height": 391,
+      "original": "assets/press/press-15.jpg",
+      "thumbnail": "assets/press/press-15.webp"
+    },
+    {
+      "id": "press-16",
+      "sources": [
+        "22575741-d0ea-4208-afd6-3ec25596ed66.jpg"
+      ],
+      "sha256": "8c79be1f762d12eacf75281cb620ffda2dc06306d8951aea79dfb347091340bc",
+      "pixels_sha256": "2a8ce3d138a45d65e36bca767d4adef47d7a5b707eeaa5bbb5c0c2633daa2997",
+      "width": 1600,
+      "height": 1130,
+      "original": "assets/press/press-16.jpg",
+      "thumbnail": "assets/press/press-16.webp"
+    },
+    {
+      "id": "press-17",
+      "sources": [
+        "ad94d492-fbba-4a24-a6de-d20173926264.jpg"
+      ],
+      "sha256": "87361c7d475e9419b3951e1f2dca85443fc910da6638738e65575b45cde38f61",
+      "pixels_sha256": "b080d65fc145680d36e06cb241e9356f3acf4d8919387d06075470b1ac08542c",
+      "width": 1117,
+      "height": 1280,
+      "original": "assets/press/press-17.jpg",
+      "thumbnail": "assets/press/press-17.webp"
+    },
+    {
+      "id": "press-18",
+      "sources": [
+        "b750d04b-4e1a-4b69-bdaa-04ffe2416372.jpg"
+      ],
+      "sha256": "fb42cde2cec222b3a1c785299cd304d109b412f2c4bff0e548162564fe13a21c",
+      "pixels_sha256": "6fa8811a25c3e7a518f1970b6c55dae5304662772343a9a44ee283612e7d5ea4",
+      "width": 1537,
+      "height": 1600,
+      "original": "assets/press/press-18.jpg",
+      "thumbnail": "assets/press/press-18.webp"
+    },
+    {
+      "id": "press-19",
+      "sources": [
+        "b2603704-d205-4b29-9fcc-074bb0d5587d.jpg"
+      ],
+      "sha256": "e0563647057ff9a5063561552b7317ee11c7da2f6d05a63b7f5d512b17d523a7",
+      "pixels_sha256": "561727740d12307f1b5e8d762fa79583c1cbe6e820c7bb1ea246a30b99cf0ebd",
+      "width": 1222,
+      "height": 1600,
+      "original": "assets/press/press-19.jpg",
+      "thumbnail": "assets/press/press-19.webp"
+    },
+    {
+      "id": "press-20",
+      "sources": [
+        "bd59a1e5-9751-4a56-a802-0e6f8ce5346f.jpg"
+      ],
+      "sha256": "ad0cc67a3ea3e8d2706ac5f48cf6d8780743d07b0b70b8d09e36e397002e9f1a",
+      "pixels_sha256": "02e1864ab4fd80cb71a403411b456c242b2ada26379ec2b9443c2df675d12beb",
+      "width": 1434,
+      "height": 1600,
+      "original": "assets/press/press-20.jpg",
+      "thumbnail": "assets/press/press-20.webp"
+    },
+    {
+      "id": "press-21",
+      "sources": [
+        "f72cc004-63cb-4e6f-910b-aa669083c39d.jpg"
+      ],
+      "sha256": "aa2739cebf564644841459d815532748693ba6b5143d6cbdaf222cb72d53c38b",
+      "pixels_sha256": "919c4b9ea9760da097c76be7dc8b65e96fb00630544f7b4efd293d82c38f54a5",
+      "width": 1080,
+      "height": 720,
+      "original": "assets/press/press-21.jpg",
+      "thumbnail": "assets/press/press-21.webp"
+    },
+    {
+      "id": "press-22",
+      "sources": [
+        "fa2458c4-976c-496d-a543-8e581ac2dd4e.jpg"
+      ],
+      "sha256": "541c40461726e4b6733eef8042c20e216a0b4f322013f596835a8ccb271d5855",
+      "pixels_sha256": "ad4d87f2026524b49b717f1e1a1cd428d5d9951b5e6337b20777617500955bd9",
+      "width": 1145,
+      "height": 1600,
+      "original": "assets/press/press-22.jpg",
+      "thumbnail": "assets/press/press-22.webp"
+    },
+    {
+      "id": "press-23",
+      "sources": [
+        "fbe3af13-c068-4e4c-bbfc-3c039f129b08 (1).jpg",
+        "fbe3af13-c068-4e4c-bbfc-3c039f129b08.jpg"
+      ],
+      "sha256": "058ad167204a3679684d71c6ededdf86cae936f0c17bb16b51efb2f1318a15c1",
+      "pixels_sha256": "f300f898912eb755d32681b2f5c29cfc6c04e4c7dc697d4270379befac5bf678",
+      "width": 1080,
+      "height": 739,
+      "original": "assets/press/press-23.jpg",
+      "thumbnail": "assets/press/press-23.webp"
+    }
+  ]
+}

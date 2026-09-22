@@ -1,0 +1,120 @@
+{
+  "input_count": 8,
+  "unique_count": 7,
+  "items": [
+    {
+      "id": "event-01",
+      "sources": [
+        "2a1fcd3d-284e-4761-928d-fb8cbf9c3290.jpg"
+      ],
+      "source_hashes": {
+        "2a1fcd3d-284e-4761-928d-fb8cbf9c3290.jpg": "afcf28eff238c8d35eb965b5b072e9136915801bb1b1bd12b04bab953745d416"
+      },
+      "pixel_hash": "0ae2d880d07019c6383ab240190e96f354d0021095a54700a476aae0b0e41b7c",
+      "image": "assets/events/event-01.webp",
+      "original": "assets/events/originals/2a1fcd3d-284e-4761-928d-fb8cbf9c3290.jpg",
+      "width": 536,
+      "height": 176,
+      "title": "Together at an academy gathering",
+      "alt": "A large group of karate students and adults posing indoors."
+    },
+    {
+      "id": "event-02",
+      "sources": [
+        "165dcd72-eb3e-4909-b93c-afbb82a3395f (1).jpg"
+      ],
+      "source_hashes": {
+        "165dcd72-eb3e-4909-b93c-afbb82a3395f (1).jpg": "20ae83644a548d71973d0f1d1d8fe910ec1b6d51a5f9c3521675bb49ecba046e"
+      },
+      "pixel_hash": "387be509580076a16b3a5b0a3a6b50ae309378531d74bc287a40841f958f9898",
+      "image": "assets/events/event-02.webp",
+      "original": "assets/events/originals/165dcd72-eb3e-4909-b93c-afbb82a3395f (1).jpg",
+      "width": 544,
+      "height": 183,
+      "title": "Certificates, medals and shared progress",
+      "alt": "Karate practitioners seated and standing on mats, holding certificates and wearing medals."
+    },
+    {
+      "id": "event-03",
+      "sources": [
+        "503eeaf9-fc88-4c97-a475-12a97c01a976.jpg"
+      ],
+      "source_hashes": {
+        "503eeaf9-fc88-4c97-a475-12a97c01a976.jpg": "10b84a06162f03962e23ce84bff45af7972cdc59fb84222ee411706cd3956f08"
+      },
+      "pixel_hash": "a3ab1baea6b38f871f6b9b82166e041fecacc5d03b90bf7bb82b99e13d93ed5f",
+      "image": "assets/events/event-03.webp",
+      "original": "assets/events/originals/503eeaf9-fc88-4c97-a475-12a97c01a976.jpg",
+      "width": 960,
+      "height": 720,
+      "title": "An outdoor presentation",
+      "alt": "A group outside a building with people at the centre holding a document."
+    },
+    {
+      "id": "event-04",
+      "sources": [
+        "1906aaa2-9cf1-4675-92c1-ec9e9e225623.jpg"
+      ],
+      "source_hashes": {
+        "1906aaa2-9cf1-4675-92c1-ec9e9e225623.jpg": "31e0f5b2a1fc9a2408125fd30198fd94f1cf94003efd96c22ed1e95816353326"
+      },
+      "pixel_hash": "609a04b323c1d91af44a27f0bba4a7ff5c68b02af681cc08ceb9a4a481828b81",
+      "image": "assets/events/event-04.webp",
+      "original": "assets/events/originals/1906aaa2-9cf1-4675-92c1-ec9e9e225623.jpg",
+      "width": 458,
+      "height": 270,
+      "title": "A moment with the team",
+      "alt": "Karate practitioners wearing medals posing outdoors alongside two adults."
+    },
+    {
+      "id": "event-05",
+      "sources": [
+        "4701ceed-3cee-4954-b21c-d39b556f96e7.jpg"
+      ],
+      "source_hashes": {
+        "4701ceed-3cee-4954-b21c-d39b556f96e7.jpg": "c32946aa4ddddfa6ceeee56f00519b5ead77916c95e5ff269f13d5190872c8ce"
+      },
+      "pixel_hash": "cad2bc2534c483c9f052b96bf377466c1c286c70abb8ab30a25d2599934d191f",
+      "image": "assets/events/event-05.webp",
+      "original": "assets/events/originals/4701ceed-3cee-4954-b21c-d39b556f96e7.jpg",
+      "width": 522,
+      "height": 171,
+      "title": "The wider academy community",
+      "alt": "A wide group photograph of karate students in uniform and adults at an indoor gathering."
+    },
+    {
+      "id": "event-06",
+      "sources": [
+        "88371b85-bc79-428c-a92b-99ae3338219c.jpg",
+        "f304aa50-489d-46d8-a0cf-82d5b89b6604.jpg"
+      ],
+      "source_hashes": {
+        "88371b85-bc79-428c-a92b-99ae3338219c.jpg": "d69a9e04a34b86deadde5caddfea3b5f54c557f6b4060b3cadc2f5415145714c",
+        "f304aa50-489d-46d8-a0cf-82d5b89b6604.jpg": "d69a9e04a34b86deadde5caddfea3b5f54c557f6b4060b3cadc2f5415145714c"
+      },
+      "pixel_hash": "7b0aeb0f263a2773009e4498899d005d6a565d109bb09ab37dc54c3cbf994b6d",
+      "image": "assets/events/event-06.webp",
+      "original": "assets/events/originals/88371b85-bc79-428c-a92b-99ae3338219c.jpg",
+      "width": 960,
+      "height": 720,
+      "title": "Celebrating young practitioners",
+      "alt": "Young karate practitioners wearing medals posing with adults in front of a white backdrop."
+    },
+    {
+      "id": "event-07",
+      "sources": [
+        "f9c5d616-c725-429e-89a6-c63e41319709.jpg"
+      ],
+      "source_hashes": {
+        "f9c5d616-c725-429e-89a6-c63e41319709.jpg": "4c51a2740c3c73dc3947f96875f3baaff51057e1548722f4453caeb0220584b9"
+      },
+      "pixel_hash": "4c6b8f175bc273a72768a9920cd38730739fefc3fa320a5002a520f3afc73fe8",
+      "image": "assets/events/event-07.webp",
+      "original": "assets/events/originals/f9c5d616-c725-429e-89a6-c63e41319709.jpg",
+      "width": 510,
+      "height": 172,
+      "title": "The people around the practice",
+      "alt": "A line of adults posing indoors in front of an event banner."
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+/* Royal inner pages. Load after royal.css; no former stylesheet is required.
+   Section separation comes from space and surfaces, never decorative rules. */
+.r-page .r-content { padding-bottom: var(--section-space); }
+.r-page .r-content :is(section, article, div, figure, dl) { min-width: 0; }
+.r-page .r-content [id] { scroll-margin-top: 112px; }
+.r-page [hidden] { display: none !important; }
+.r-page.locked { overflow: hidden; }
+.r-page .r-content p { margin: 0 0 1.1em; max-width: 66ch; color: var(--muted); }
+.r-page .r-content :is(h1, h2, h3) { text-wrap: pretty; overflow-wrap: anywhere; }
+.r-page .r-content h2 { margin-bottom: 24px; }
+.r-page .r-content h3 { margin-bottom: 12px; }
+.r-page .r-content img { display: block; width: 100%; height: auto; object-fit: contain; }
+.r-page .r-content figure { margin: 0; }
+.r-page .r-content figcaption { margin: 0; padding-top: 14px; color: var(--muted); font-size: 14px; line-height: 1.6; }
+.r-page .r-content :is(ul, ol) { padding-left: 1.3em; }
+.r-page .r-content li + li { margin-top: 10px; }
+.r-page .r-content dl { margin: 24px 0; }
+.r-page .r-content dt { font-weight: 800; color: var(--ink); margin-bottom: 6px; }
+.r-page .r-content dd { margin: 0; color: var(--muted); }
+.r-page .r-content dl > div + div { margin-top: 24px; }
+.r-page .r-content .eyebrow { display: block; font-size: 14px; font-weight: 700; color: var(--accent); letter-spacing: .02em; text-transform: none; margin-bottom: 18px; }
+.r-page .r-content :is(.small, .kids-small, .adult-small, .page-note, .profile-detail-note, .recognition-press, .events-preview-note, .media-reading-note) { font-size: 14px; line-height: 1.7; }
+.r-page .r-content .button { max-width: 100%; white-space: normal; }
+.r-page .r-content .button.black { background: var(--gold); color: var(--ink); }
+.r-page .r-content .actions { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 24px; }
+.r-page .r-content .text-link { min-height: 44px; }
+.r-page .r-content :is(a, button, summary, input, select, textarea):focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
+.r-page .r-breadcrumb { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 20px; padding-top: 24px; font-size: 14px; color: var(--muted); }
+.r-page .r-breadcrumb a { display: inline-flex; align-items: center; min-height: 44px; color: var(--accent); }
+.r-page .r-breadcrumb span { overflow-wrap: anywhere; }
+.r-page .r-breadcrumb span::before { content: '/'; padding-right: 20px; color: var(--muted); }
+.r-page .r-opening { display: grid; grid-template-columns: minmax(0, 1.08fr) minmax(0, .92fr); gap: clamp(32px, 5vw, 76px); align-items: center; padding-block: 36px 48px; }
+.r-page .r-opening:not(:has(> figure)) { grid-template-columns: 1fr; }
+.r-page .r-opening-copy { max-width: 760px; }
+.r-page .r-opening h1 { margin: 0 0 24px; max-width: 18ch; }
+.r-page .r-opening-copy > :last-child { margin-bottom: 0; }
+.r-page .r-opening :is(.lead, .r-lead, .kids-lead, .events-lead, .profile-subtitle, .academy-subtitle, .media-subtitle, .adults-hero-intro > p:first-child) { font-size: clamp(19px, 1.8vw, 24px); line-height: 1.55; color: var(--ink); }
+.r-page .r-opening figure { width: 100%; }
+.r-page .r-opening figure img { max-height: 520px; border-radius: var(--radius); }
+.r-page .r-opening .r-role { color: var(--accent); font-weight: 800; margin-bottom: 12px; }
+.r-page .r-profile-opening { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; }
+.r-page .r-profile-opening .profile-portrait img { max-height: 700px; }
+.r-page .profile-heading { margin-bottom: 28px; }
+.r-page .profile-training-mark { display: grid; gap: 4px; padding: 20px 24px; background: var(--surface); border-radius: var(--radius); margin-block: 24px 12px; }
+.r-page .profile-training-mark strong { color: var(--ink); }
+.r-page .profile-training-mark span { color: var(--muted); }
+.r-page .r-jump { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 24px; }
+.r-page .r-jump a { display: inline-flex; align-items: center; gap: 12px; min-height: 44px; padding: 10px 16px; font-size: 14px; line-height: 1.5; font-weight: 700; background: var(--surface); border-radius: 8px; color: var(--accent); }
+.r-page .r-jump a:hover { background: var(--ink); color: var(--surface); }
+
+/* Biography, academy and coaching: a visible lead, then readable chapters. */
+.r-page :is(.profile-centres, .profile-two-column, .academy-two-col, .academy-founder-grid, .r-coach-lead, .kids-benefits, .kids-community-inner, .kids-parent-guide, .adult-benefits, .adult-next, .media-featured, .media-purpose-inner, .media-recognition, .achievements-purpose, .events-activities, .events-enrollment, .contact-next, .faq) { display: grid; grid-template-columns: minmax(0, .88fr) minmax(0, 1.12fr); gap: clamp(32px, 6vw, 88px); align-items: start; }
+.r-page .profile-mission { background: var(--ink); color: var(--surface); margin-top: 40px; padding-block: var(--section-space); }
+.r-page .profile-mission blockquote { font-size: clamp(25px, 3vw, 40px); line-height: 1.45; max-width: 36ch; margin: 0 0 28px; font-weight: 700; }
+.r-page .profile-mission :is(p, .eyebrow) { color: #e1e8eb; }
+.r-page .profile-purpose { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; padding-block: 20px var(--section-space); }
+.r-page .profile-purpose article { background: var(--surface); padding: 32px; border-radius: var(--radius); }
+.r-page :is(.profile-location-list, .academy-centres) article { background: var(--surface); border-radius: var(--radius); padding: 26px; margin-bottom: 20px; }
+.r-page .free-label { display: inline-block; color: var(--accent); font-weight: 700; font-size: 14px; }
+.r-page :is(.profile-values, .profile-recognition, .academy-teaching, .adult-archive, .kids-community, .media-purpose, .events-camps) { background: #e9eeec; }
+.r-page .profile-recognition .profile-section-title { max-width: 780px; }
+.r-page .r-card-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.r-page .r-card-grid > :is(article, div) { margin: 0; background: var(--surface); border-radius: var(--radius); padding: 28px; }
+.r-page .r-card-grid > :is(article, div) p:last-child { margin-bottom: 0; }
+.r-page .recognition-list { grid-template-columns: repeat(3, minmax(0, 1fr)); margin-block: 36px; }
+.r-page .recognition-year { display: block; color: var(--accent); font-size: 18px; font-weight: 800; margin-bottom: 20px; }
+.r-page .r-skill-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; padding: 0 !important; margin: 0; list-style: none; }
+.r-page .r-skill-list li { background: var(--surface); border-radius: 8px; padding: 16px 20px; margin: 0; }
+.r-page .r-academy-introduction { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px 64px; padding-block: 40px var(--section-space); }
+.r-page .r-academy-introduction > p:first-child { grid-row: span 4; font-size: 20px; color: var(--ink); }
+.r-page .r-academy-introduction > :not(:first-child) { grid-column: 2; }
+.r-page .r-academy-introduction blockquote { font-weight: 700; margin: 0 0 20px; font-size: 24px; line-height: 1.5; }
+.r-page .r-founder-feature { background: var(--surface); }
+.r-page .academy-founder-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr); }
+.r-page .academy-founder-grid img { max-height: 720px; border-radius: var(--radius); }
+.r-page .r-story-reading > div { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); gap: 0 64px; }
+.r-page .r-story-reading h2 { grid-row: span 5; }
+.r-page .academy-free { padding-block: var(--section-space); background: var(--ink); }
+.r-page .academy-free :is(p, h2, .eyebrow) { color: var(--surface); }
+.r-page .academy-free .academy-free-label { color: var(--gold); font-weight: 800; }
+.r-page :is(.academy-nomination, .media-nomination, .r-notice, .content-note) { padding: 24px; background: #e9eeec; border-radius: var(--radius); margin-block: 24px; font-size: 15px; }
+.r-page :is(.academy-nomination, .media-nomination, .content-note) strong { color: var(--ink); }
+.r-page .content-note strong { display: block; margin-bottom: 10px; }
+.r-page .r-coach-lead { padding-top: 40px; align-items: center; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.r-page .r-coach-lead figure img { max-height: 680px; border-radius: var(--radius); }
+.r-page .r-coach-lead .r-role { font-weight: 800; color: var(--accent); }
+.r-page .r-coach-lead h2 { font-size: clamp(32px, 3.6vw, 48px); }
+.r-page .r-coach-lead h3 { margin-top: 24px; }
+.r-page .r-coaches { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px; margin-top: 36px; }
+.r-page .r-coach-card figure { background: var(--surface); border-radius: var(--radius); padding: 16px; }
+.r-page .r-coach-card img { height: 330px; object-fit: contain; }
+.r-page .r-coach-card h3 { margin-top: 22px; }
+.r-page .r-coach-card [lang="mr"] { font-family: Manrope, 'Nirmala UI', Mangal, sans-serif; }
+.r-page .trial-band { padding-block: var(--section-space); background: var(--ink); }
+.r-page .trial-band :is(p, h2, .eyebrow) { color: var(--surface); }
+.r-page .trial-band-inner { display: flex; align-items: center; justify-content: space-between; gap: 36px; }
+.r-page .trial-band-inner > div { max-width: 660px; }
+
+/* Programmes: compare clear cards, then explore a detailed curriculum. */
+.r-page .r-program-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; padding-block: 40px; }
+.r-page .program-detail { background: var(--surface); border-radius: var(--radius); padding: 28px; display: flex; flex-direction: column; gap: 28px; }
+.r-page .detail-photo img { height: 300px; object-fit: contain; }
+.r-page .detail-copy { display: flex; flex-direction: column; align-items: start; flex: 1; }
+.r-page .detail-copy ul { margin: 0 0 28px; }
+.r-page .detail-copy .button { margin-top: auto; }
+.r-page .detail-copy .text-link { margin-top: 14px; }
+.r-page .kids-overview { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; padding-block: 20px; }
+.r-page .kids-overview > div { background: var(--surface); padding: 24px; border-radius: var(--radius); }
+.r-page .kids-overview span { display: block; margin-bottom: 8px; color: var(--muted); font-size: 14px; }
+.r-page .r-curriculum { display: block; }
+.r-page .r-section-intro { max-width: 760px; margin-bottom: 36px; }
+.r-page :is(.kids-progress, .adult-grading) { padding-block: 56px; background: var(--surface); }
+.r-page :is(.kids-progress-inner, .adult-grading-inner) { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 64px; }
+.r-page :is(.kids-progress-statement, .adult-grading-inner > div > p) { font-size: 23px; color: var(--ink); }
+.r-page :is(.kids-benefits, .adult-benefits) figure img { max-height: 620px; }
+.r-page :is(.kids-benefits-list, .adult-benefits dl) > div { background: var(--surface); padding: 20px 24px; border-radius: var(--radius); }
+.r-page .adult-archive-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; margin-bottom: 32px; align-items: center; }
+.r-page .adult-archive-grid img { max-height: 320px; }
+.r-page :is(.kids-page-content, .adults-content) figure img { width: auto; max-width: 100%; height: auto; min-height: 0; margin-inline: auto; }
+.r-page .adults-hero-intro .button { margin-block: 6px 20px; }
+.r-page .kids-free-note { margin-top: 20px; font-weight: 700; color: var(--accent); }
+.r-page .editorial-split:not(.r-coach-lead) { padding-top: 40px; }
+.r-page .editorial-split:not(.r-coach-lead) > div { max-width: 900px; }
+.r-page .coaching-lines { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin-block: 28px; }
+.r-page .coaching-lines > div { background: var(--surface); border-radius: var(--radius); padding: 24px; }
+.r-page .coaching-lines span { display: block; font-weight: 800; color: var(--accent); margin-bottom: 12px; }
+.r-page .r-seminar-outline .coaching-lines { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.r-page .r-seminar-outline > div { max-width: none !important; }
+.r-page .r-seminar-outline > div > p { max-width: 75ch; }
+.r-page .competition { background: var(--surface); padding-block: var(--section-space); }
+.r-page .competition > .wrap { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px 64px; }
+.r-page .competition-top { grid-column: 1 / -1; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 64px; }
+.r-page .competition-image img { max-height: 400px; }
+.r-page .r-results-note { padding: 28px; background: var(--paper); border-radius: var(--radius); }
+.r-page .r-results-note .eyebrow { margin-bottom: 12px; }
+.r-page .location-layout { padding-top: 40px; }
+.r-page .location-panel > p { max-width: 80ch; }
+.r-page .r-centre-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; margin-block: 32px; }
+.r-page .r-centre-cards article { padding: 32px; border-radius: var(--radius); background: var(--surface); }
+.r-page .r-centre-cards .r-free { color: var(--accent); font-weight: 700; }
+.r-page .location-meta { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 28px; margin-block: 32px; }
+.r-page .location-meta strong { display: block; margin-bottom: 8px; }
+.r-page .location-meta span { font-size: 15px; color: var(--muted); }
+.r-page .location-panel .small { margin-top: 24px; }
+
+/* Contact: lead with a real person and direct contact, not a fake send form. */
+.r-page .r-contact-opening { grid-template-columns: minmax(0, 1fr) minmax(0, .8fr); }
+.r-page .r-contact-opening .contact-person { display: grid; grid-template-columns: minmax(0, 1fr); max-width: 430px; justify-self: end; }
+.r-page .contact-person img { height: 410px; object-fit: contain; }
+.r-page .contact-person figcaption { padding-top: 20px; }
+.r-page .contact-person .eyebrow { margin-bottom: 8px; }
+.r-page .contact-person h3 { margin-bottom: 8px; font-size: 26px; }
+.r-page .contact-person p { margin-bottom: 6px; }
+.r-page .contact-person .r-role { font-weight: 800; color: var(--accent); }
+.r-page .contact-jump { display: inline-flex; align-items: center; gap: 24px; min-height: 44px; font-weight: 700; color: var(--accent); }
+.r-page .r-contact-direct { padding: 0; margin-block: 24px 12px; }
+.r-page .r-contact-direct > p { font-size: 14px; }
+.r-page .r-contact-direct h3 { font-size: 20px; }
+.r-page .r-contact-opening { align-items: start; }
+.r-page .r-contact-opening .r-opening-copy > .eyebrow, .r-page .contact-person .eyebrow { display: none; }
+.r-page .r-contact-direct dl { display: grid; grid-template-columns: 1fr; gap: 4px; margin-block: 14px; }
+.r-page .r-contact-direct dl > div { display: grid; grid-template-columns: 86px minmax(0,1fr); align-items: center; }
+.r-page .r-contact-direct dt { margin:0; font-size:13px; }
+.r-page .r-contact-direct dl > div + div { margin: 0; }
+.r-page .r-contact-direct a { display: inline-flex; align-items: center; min-height: 44px; font-size: 18px; font-weight: 700; overflow-wrap: anywhere; }
+.r-page .contact-layout { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); gap: 48px; align-items: start; }
+.r-page .contact-centres > div { background: var(--surface); padding: 24px; border-radius: var(--radius); }
+.r-page .contact-free { color: var(--accent); font-weight: 800; font-size: 21px; }
+.r-page .contact-enquiry { background: var(--surface); padding: 36px; border-radius: var(--radius); }
+.r-page .contact-preview-note { background: var(--paper); border-radius: 8px; padding: 20px; margin-block: 24px; }
+.r-page .contact-preview-note strong { display: block; margin-bottom: 8px; }
+.r-page .contact-preview-note p { margin: 0; font-size: 15px; }
+.r-page #contact-fields { border: 0; padding: 0; margin: 0; min-width: 0; }
+.r-page .contact-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.r-page .contact-field { margin-bottom: 24px; min-width: 0; }
+.r-page .contact-field label { display: block; font-size: 15px; font-weight: 800; margin-bottom: 10px; }
+.r-page .contact-field label span { font-weight: 400; }
+.r-page .contact-field :is(input, select, textarea) { display: block; width: 100%; min-width: 0; max-width: 100%; min-height: 48px; font-size: 16px; line-height: 1.5; padding: 12px; background: var(--surface); border: 1px solid #82929d; border-radius: 8px; color: var(--ink); }
+.r-page .contact-field select { text-overflow: ellipsis; padding-right: 28px; }
+.r-page .contact-field textarea { resize: vertical; min-height: 160px; }
+.r-page .contact-field-row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.r-page .contact-field p, .r-page :is(.contact-required-note, .contact-topic-note, .contact-privacy, .contact-timing, .contact-noscript, .contact-status) { font-size: 14px; }
+.r-page .contact-field p { margin-top: 10px; }
+.r-page .contact-primary { width: 100%; justify-content: space-between; }
+.r-page .contact-review { margin-top: 32px; }
+.r-page #contact-draft { white-space: pre-wrap; overflow-wrap: anywhere; font: 15px/1.7 Manrope, sans-serif; max-height: 420px; overflow: auto; background: var(--paper); padding: 24px; border: 1px solid var(--line); border-radius: 8px; }
+.r-page .contact-review-actions { display: flex; gap: 16px; flex-wrap: wrap; }
+.r-page .contact-edit { min-height: 44px; padding: 10px 18px; background: var(--surface); color: var(--accent); border: 1px solid var(--line); border-radius: 8px; font-weight: 700; }
+.r-page .contact-status:not(:empty) { margin-top: 24px; font-weight: 700; }
+.r-page .contact-next { padding-block: var(--section-space) 0; }
+
+/* Archives: every original item, a consistent scan grid and explicit context. */
+.r-page .r-archive-opening .r-opening-figure img { height: 390px; }
+.r-page .r-section-heading { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, .8fr); gap: 48px; align-items: end; margin-bottom: 32px; }
+.r-page .r-section-heading h2 { margin-bottom: 16px; }
+.r-page .achievements-intro-line { display: flex; align-items: center; gap: 24px; justify-content: space-between; padding-block: 12px 30px; }
+.r-page .achievements-intro-line a { min-height: 44px; display: inline-flex; align-items: center; gap: 14px; font-weight: 700; }
+.r-page .achievements-intro-line p { margin-bottom: 0; }
+.r-page :is(.achievements-archive, .media-gallery-section, .events-gallery-section) { background: #e9eeec; }
+.r-page :is(.press-toolbar, .achievements-toolbar) { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-block: 30px 24px; flex-wrap: wrap; }
+.r-page :is(.press-filters, .achievements-filters, .gallery-controls) { display: flex; flex-wrap: wrap; gap: 8px; }
+.r-page :is(.press-filters, .achievements-filters, .gallery-controls) button { min-height: 44px; border: 1px solid #82929d; padding: 10px 16px; font-size: 14px; font-weight: 700; color: var(--ink); background: transparent; border-radius: 8px; }
+.r-page :is(.press-filters, .achievements-filters, .gallery-controls) button[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+.r-page :is(#press-count, #achievements-count, #gallery-count) { margin: 0; font-size: 14px; }
+.r-page .r-archive-context { font-size: 14px; max-width: 95ch !important; margin-bottom: 32px !important; }
+.r-page :is(.press-grid, .achievements-grid, .gallery-grid) { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 36px 28px; align-items: start; }
+.r-page :is(.press-grid, .achievements-grid) > figure { background: var(--surface); border-radius: var(--radius); padding: 20px; }
+.r-page :is(.press-scan, .achievement-image, .media-feature > a) { display: block; color: var(--accent); }
+.r-page :is(.press-grid, .achievements-grid) img { width: 100%; height: 300px; object-fit: contain; }
+.r-page :is(.press-grid, .achievements-grid) h3 { font-size: 20px; line-height: 1.45; margin-top: 8px; }
+.r-page :is(.press-grid, .achievements-grid) figcaption > span { font-size: 13px; font-weight: 700; color: var(--muted); }
+.r-page :is(.press-open-label, .achievement-open) { display: flex; align-items: center; justify-content: space-between; min-height: 44px; padding-top: 12px; font-size: 14px; font-weight: 800; }
+.r-page .achievements-lead figcaption { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+.r-page .achievements-related { display: flex; gap: 24px; flex-wrap: wrap; }
+.r-page .media-featured dl > div { background: var(--surface); border-radius: var(--radius); padding: 24px; }
+.r-page .media-closing { padding-block: 24px 0; display: flex; align-items: center; justify-content: space-between; gap: 32px; }
+.r-page .media-closing p { margin: 0; }
+.r-page .events-season-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+.r-page .events-hero-photo figcaption span { display: block; margin-top: 4px; }
+.r-page .events-season { background: var(--surface); padding: 32px; border-radius: var(--radius); }
+.r-page .events-season-label { display: block; font-size: 14px; color: var(--accent); margin-bottom: 16px; font-weight: 800; }
+.r-page .events-season a { display: inline-flex; align-items: center; gap: 16px; min-height: 44px; color: var(--accent); font-weight: 700; }
+.r-page .events-season-focus { font-size: 14px; }
+.r-page .events-season-note { margin-top: 24px !important; font-size: 14px; max-width: 90ch !important; }
+.r-page .events-activities figure { margin-top: 32px; }
+.r-page .events-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 36px; align-items: start; }
+.r-page .event-photo > a { display: block; padding: 20px; background: var(--surface); border-radius: var(--radius); position: relative; }
+.r-page .event-photo img { height: 330px; object-fit: contain; }
+.r-page .event-enlarge { position: absolute; bottom: 12px; right: 12px; display: grid; place-items: center; width: 44px; height: 44px; background: var(--ink); color: var(--surface); border-radius: 8px; font-size: 22px; }
+.r-page .event-photo figcaption { font-weight: 700; font-size: 16px; }
+.r-page .events-enrollment-info { padding: 28px; background: var(--surface); border-radius: var(--radius); }
+.r-page .gallery-controls { margin-bottom: 20px; }
+.r-page .gallery-grid { margin-top: 28px; }
+.r-page .photo-button { width: 100%; display: block; border: 0; background: var(--surface); padding: 0; border-radius: var(--radius); }
+.r-page .photo-button img { width: 100%; height: 330px; object-fit: contain; }
+.r-page .gallery-grid figcaption { font-size: 16px; }
+.r-page .r-information { max-width: 100%; }
+.r-page .r-information-section { display: grid; grid-template-columns: minmax(0, .7fr) minmax(0, 1.3fr); gap: 0 72px; padding-block: 12px 56px; }
+.r-page .r-information-section h2 { grid-column: 1; grid-row: span 3; font-size: clamp(24px, 2.5vw, 34px); }
+.r-page .r-information-section p { grid-column: 2; }
+.r-page .r-information-section a { text-decoration: underline; text-underline-offset: 4px; }
+
+/* Reader states expected by media.js, achievements.js and events.js. */
+.r-page :is(#press-viewer, #achievement-viewer, #event-viewer) { width: min(1180px, 94vw); height: min(960px, 94dvh); max-width: 94vw; max-height: 94dvh; padding: 0; border: 0; border-radius: var(--radius); background: var(--paper); color: var(--ink); overflow: hidden; }
+.r-page :is(#press-viewer, #achievement-viewer, #event-viewer)[open] { display: flex; flex-direction: column; }
+.r-page :is(#press-viewer, #achievement-viewer, #event-viewer)::backdrop { background: #142b3ce8; }
+.r-page :is(.press-viewer-head, .achievement-viewer-head, .event-viewer-head) { display: flex; justify-content: space-between; align-items: center; gap: 20px; padding: 20px 24px 12px; flex-shrink: 0; }
+.r-page :is(.press-viewer-head, .achievement-viewer-head, .event-viewer-head) h2 { font-size: clamp(20px, 2.2vw, 28px); line-height: 1.35; margin: 0; }
+.r-page :is(.press-viewer-head, .achievement-viewer-head, .event-viewer-head) .eyebrow { font-size: 13px; margin-bottom: 6px; }
+.r-page :is(.press-viewer-head, .achievement-viewer-head, .event-viewer-head) .icon-button { flex-shrink: 0; }
+.r-page :is(.press-viewer-tools, .achievement-viewer-tools, .event-viewer-controls) { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 12px 24px; flex-shrink: 0; }
+.r-page :is(.press-viewer-tools, .achievement-viewer-tools, .event-viewer-controls) :is(button, a) { min-height: 44px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #82929d; background: var(--surface); border-radius: 8px; color: var(--ink); font-size: 14px; font-weight: 700; padding: 8px 16px; }
+.r-page :is(.press-viewer-tools, .achievement-viewer-tools) button[aria-pressed="true"] { background: var(--ink); color: var(--surface); }
+.r-page :is(.press-image-stage, .achievement-stage, .event-viewer-stage) { flex: 1; min-height: 100px; overflow: auto; background: #dbe2e5; padding: 16px; overscroll-behavior: contain; }
+.r-page :is(.press-image-stage, .achievement-stage, .event-viewer-stage) img { display: block; width: 100%; height: 100%; max-width: none; object-fit: contain; }
+.r-page :is(.press-image-stage, .achievement-stage).is-zoomed img { width: max(160%, 1200px); height: auto; max-width: none; object-fit: contain; }
+.r-page :is(.press-viewer-note, .event-viewer-note, .achievement-viewer-foot, #press-position) { padding: 8px 24px 12px; margin: 0; font-size: 13px; line-height: 1.5; color: var(--muted); flex-shrink: 0; }
+.r-page .achievement-viewer-foot { display: flex; gap: 24px; }
+.r-page .achievement-viewer-foot p { margin: 0; }
+.r-page :is(#achievement-position, #event-position) { white-space: nowrap; font-size: 14px; }
+.r-page button:disabled { opacity: .5; cursor: not-allowed; }
+
+@media (max-width: 900px) {
+  .r-page .r-opening { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; }
+  .r-page .r-opening-copy h1 { font-size: clamp(36px, 5vw, 50px); }
+  .r-page :is(.profile-centres, .profile-two-column, .academy-two-col, .academy-founder-grid, .r-coach-lead, .kids-benefits, .kids-community-inner, .kids-parent-guide, .adult-benefits, .adult-next, .media-featured, .media-purpose-inner, .media-recognition, .achievements-purpose, .events-activities, .events-enrollment, .contact-next, .faq) { gap: 32px; }
+  .r-page .recognition-list { grid-template-columns: 1fr; }
+  .r-page .recognition-list article { display: grid; grid-template-columns: 100px minmax(0, 1fr); gap: 24px; }
+  .r-page .contact-layout { grid-template-columns: 1fr; gap: 40px; }
+  .r-page .contact-centres { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+  .r-page .contact-centres > div + div { margin-top: 0; }
+  .r-page .r-contact-direct dl { grid-template-columns: 1fr; gap: 16px; }
+  .r-page .r-contact-direct dl > div { display: grid; grid-template-columns: 120px minmax(0, 1fr); align-items: center; }
+  .r-page .r-coaches { gap: 20px; }
+  .r-page .r-coach-card img { height: 250px; }
+  .r-page :is(.press-grid, .achievements-grid, .gallery-grid) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .r-page .r-information-section { grid-template-columns: minmax(0, .7fr) minmax(0, 1.3fr); gap: 0 32px; }
+  .r-page .location-meta { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .r-page .r-seminar-outline .coaching-lines { grid-template-columns: 1fr; }
+  .r-page .r-academy-introduction { gap: 12px 32px; }
+}
+@media (max-width: 600px) {
+  .r-page .r-breadcrumb { padding-top: 18px; gap: 0 12px; }
+  .r-page .r-breadcrumb span::before { padding-right: 12px; }
+  .r-page .r-opening { grid-template-columns: 1fr; padding-block: 24px 36px; gap: 32px; }
+  .r-page .r-opening-copy h1 { font-size: 36px; line-height: 1.15; }
+  .r-page .r-opening figure img { max-height: 520px; }
+  .r-page .r-profile-opening .r-opening-copy { display: contents; }
+  .r-page .r-profile-opening .profile-heading { order: 0; margin-bottom: 0; }
+  .r-page .r-profile-opening .profile-portrait { order: 1; }
+  .r-page .r-profile-opening .profile-lede { order: 2; }
+  .r-page .r-profile-opening .profile-portrait img { max-height: none; }
+  .r-page .r-jump { margin-bottom: 12px; }
+  .r-page .r-jump a { padding-inline: 12px; font-size: 13px; }
+  .r-page :is(.profile-centres, .profile-two-column, .academy-two-col, .academy-founder-grid, .r-coach-lead, .kids-benefits, .kids-community-inner, .kids-parent-guide, .adult-benefits, .adult-next, .media-featured, .media-purpose-inner, .media-recognition, .achievements-purpose, .events-activities, .events-enrollment, .contact-next, .faq, .profile-purpose, .r-card-grid, .r-academy-introduction, .r-story-reading > div, .kids-progress-inner, .adult-grading-inner, .r-program-grid, .r-centre-cards, .contact-centres, .events-season-grid, .r-section-heading, .competition > .wrap, .competition-top) { grid-template-columns: 1fr; gap: 28px; }
+  .r-page .r-academy-introduction > p:first-child, .r-page .r-story-reading h2 { grid-row: auto; }
+  .r-page .r-academy-introduction > :not(:first-child) { grid-column: auto; }
+  .r-page .r-academy-introduction { padding-top: 32px; gap: 0; }
+  .r-page .r-coaches { grid-template-columns: 1fr; gap: 36px; }
+  .r-page .r-coach-card img { height: 360px; }
+  .r-page .r-coach-lead { padding-top: 24px; }
+  .r-page .r-coach-lead figure { order: 1; }
+  .r-page .r-coach-lead > div { order: 0; }
+  .r-page .r-card-grid > :is(article, div), .r-page .profile-purpose article, .r-page .events-season { padding: 24px; }
+  .r-page .r-skill-list { grid-template-columns: 1fr; }
+  .r-page .recognition-list article { display: block; }
+  .r-page .recognition-year { margin-bottom: 12px; }
+  .r-page .kids-overview { grid-template-columns: 1fr; gap: 12px; }
+  .r-page .kids-overview > div { padding: 20px; }
+  .r-page .adult-archive-grid { grid-template-columns: 1fr; }
+  .r-page .adults-hero figure img { min-height: 0; }
+  .r-page .program-detail { padding: 20px; }
+  .r-page .detail-photo img { height: 240px; }
+  .r-page .coaching-lines { grid-template-columns: 1fr; gap: 16px; }
+  .r-page .competition-top { grid-column: auto; }
+  .r-page .r-centre-cards article { padding: 24px; }
+  .r-page .location-meta { grid-template-columns: 1fr; gap: 20px; }
+  .r-page .r-contact-opening .contact-person { justify-self: start; max-width: none; }
+  .r-page .contact-person img { height: auto; max-height: none; }
+  .r-page .r-contact-direct { padding: 0; margin-block: 20px 12px; }
+  .r-page .r-contact-direct dl > div { grid-template-columns: 70px minmax(0,1fr); }
+  .r-page .r-contact-direct a { font-size: 16px; }
+  .r-page .contact-enquiry { padding: 24px 20px; }
+  .r-page .contact-field-row { grid-template-columns: 1fr; gap: 0; }
+  .r-page #contact-draft { padding: 16px; }
+  .r-page .contact-review-actions { flex-direction: column; }
+  .r-page .contact-review-actions .button { justify-content: space-between; }
+  .r-page :is(.press-grid, .achievements-grid, .events-gallery, .gallery-grid) { grid-template-columns: 1fr; gap: 28px; }
+  .r-page .event-photo img { height: auto; max-height: 400px; }
+  .r-page :is(.press-grid, .achievements-grid) img { height: 310px; }
+  .r-page .r-archive-opening .r-opening-figure img { height: auto; max-height: 420px; }
+  .r-page :is(.achievements-intro-line, .media-closing, .trial-band-inner) { align-items: start; flex-direction: column; gap: 16px; }
+  .r-page .r-information-section { display: block; padding-bottom: 36px; }
+  .r-page :is(#press-viewer, #achievement-viewer, #event-viewer) { width: 100vw; height: 100dvh; max-width: 100vw; max-height: 100dvh; margin: 0; border-radius: 0; }
+  .r-page :is(.press-viewer-head, .achievement-viewer-head, .event-viewer-head) { padding: 16px 16px 8px; gap: 12px; }
+  .r-page :is(.press-viewer-tools, .achievement-viewer-tools, .event-viewer-controls) { padding: 8px 16px 12px; }
+  .r-page :is(.press-viewer-tools, .achievement-viewer-tools, .event-viewer-controls) :is(button, a) { font-size: 13px; padding-inline: 12px; }
+  .r-page :is(.press-image-stage, .achievement-stage, .event-viewer-stage) { padding: 12px; min-height: 80px; }
+  .r-page :is(.press-viewer-note, .event-viewer-note, .achievement-viewer-foot, #press-position) { padding-inline: 16px; font-size: 12px; }
+  .r-page .achievement-viewer-foot { gap: 12px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .r-page .r-content *, .r-page dialog * { scroll-behavior: auto; transition: none; }
+}

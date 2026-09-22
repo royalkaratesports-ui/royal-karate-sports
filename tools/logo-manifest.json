@@ -1,0 +1,17 @@
+{
+  "original": "assets/brand/originals/royal-logo-owner.png",
+  "sha256": "2984772fc3ae79bb4cc1eb205bb3905d5f64b7c6cdfaa1262ac2c955038633b3",
+  "source_filename": "image_438c6f.png",
+  "source_size": [
+    1024,
+    944
+  ],
+  "exterior_bounds": [
+    61,
+    14,
+    959,
+    927
+  ],
+  "display": "assets/brand/royal-logo.png",
+  "treatment": "Only exterior baked checkerboard removed using the existing maroon outline. Lettering, figure, colors and inner white field unchanged. Uniform scaling, no distortion."
+}

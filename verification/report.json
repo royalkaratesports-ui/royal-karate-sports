@@ -1,0 +1,772 @@
+{
+  "pages": 17,
+  "viewports_checked": 85,
+  "issues": [],
+  "results": [
+    {
+      "page": "about-akash-shinde.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "about-akash-shinde.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "about-akash-shinde.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "about-akash-shinde.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "about-akash-shinde.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "academy.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "academy.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "academy.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "academy.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "academy.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "achievements.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "achievements.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "achievements.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "achievements.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "achievements.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "adult-batches.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "adult-batches.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "adult-batches.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "adult-batches.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "adult-batches.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "competition.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "competition.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "competition.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "competition.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "competition.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "contact.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "contact.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "contact.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "contact.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "contact.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "events.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "events.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "events.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "events.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "events.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "gallery.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "gallery.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "gallery.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "gallery.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "gallery.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "index.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "index.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "index.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "index.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "index.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "information.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "information.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "information.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "information.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "information.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "instructors.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "instructors.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "instructors.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "instructors.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "instructors.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "kids-batches.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "kids-batches.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "kids-batches.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "kids-batches.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "kids-batches.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "locations.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "locations.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "locations.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "locations.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "locations.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "media.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "media.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "media.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "media.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "media.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "programs.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "programs.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "programs.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "programs.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "programs.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "seminars.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "seminars.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "seminars.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "seminars.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "seminars.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "sensei.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "sensei.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "sensei.html",
+      "width": 768,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "sensei.html",
+      "width": 1024,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    },
+    {
+      "page": "sensei.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "badImages": [],
+      "font": true,
+      "errors": []
+    }
+  ]
+}

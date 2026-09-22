@@ -1,0 +1,36 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Build archives, previous themes and scratch previews
+*.zip
+revisions/
+/*.png
+/*.jpg
+/home-report.json
+/verification/*
+!/verification/redesign-audit.json
+!/verification/report.json
+!/verification/accessibility.json
+!/verification/inner-audit.md
+!/verification/redesign-suite-final.log
+!/verification/logo-report.json
+!/verification/logo-suite.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
